@@ -1,0 +1,139 @@
+.nav{
+    height: 25px;
+    background-color: #2d0966;
+    
+    
+}
+#navbar {
+    background-color: #250658;
+    margin-bottom: 2em;
+    color: #fff;
+    
+    
+}
+
+li, a, button {
+    font-family: sans-serif;
+    font-weight: 500px;
+    font-size: 14px;
+    color: black;
+    
+    
+}
+
+.logo {
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+}
+
+
+.seeker {
+    padding: 9px 25px;
+    background-color: rgba(0,136,169,1)  
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+    
+}
+.seeker:hover {
+    background-color: rgba(0,136,169,1);
+}
+.google {
+    height: 20em;
+    width: auto;
+    border-style: groove;
+    color: black;
+    
+    
+    
+    
+}
+#search{
+    color: greenyellow;
+    font-size: 120px;
+    
+}
+#companylogo{
+    cursor: pointer;
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 15px;
+    
+    
+    
+}
+#followbtn {
+    margin-top: 10px;
+    padding: 5px 20px;
+    background-color: rgba(0,136,169,1)  
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+    
+}
+#followbtn:hover {
+   
+    background-color: rgba(0,136,169,1)  
+
+}
+
+#name {
+    
+    margin-top: 40px;
+}
+#portrait {
+     cursor: pointer;
+    width: 100px;
+    height: 100px;
+    margin-top: auto;
+    margin-left: 15px;
+    
+    
+    
+}
+#comments{
+    
+    margin-top: 5em;
+    
+    
+}
+#intro {
+    margin-top: 50px;
+    
+}
+.success {
+    color: green;
+    
+}
+#lasttables {
+    
+    margin-top: 5em;
+    
+    
+}
+#lab1 {
+    padding: 8px 15px;
+    background-color: #e3663c;
+    position: absolute;
+    margin-top: 12em;
+    
+}
+#lab2 {
+    padding: 8px 15px;
+    background-color: #e08855;
+    position: absolute;
+     margin-top: 12em;
+    
+}
+#lab3 {
+    padding: 6px 15px;
+    background-color: #ecac87;
+    position: absolute;
+     margin-top: 12em;
+    
+}
